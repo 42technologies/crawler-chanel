@@ -1,4 +1,4 @@
-# Channel Crawler
+# Chanel Crawler
 
 This is meant to be used as a starting point to build a simple crawler.
 
@@ -8,5 +8,5 @@ latest version is broken. So, this will probably only work on OSX.
 ## Running
 
 ```
-coffee crawler-channel.coffee
+coffee crawler-chanel.coffee
 ```
